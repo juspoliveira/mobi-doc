@@ -1,0 +1,119 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Milk's Rota (SclRota) - Manual de Opera\u00e7\u00e3o.\n#\n\n\nAplicativo Coletor\n#\n\n\nA plataforma Milk's Rota \u00e9 composta por uma s\u00e9rie de servi\u00e7os idealizados e moldados para atender as necessidades de automa\u00e7\u00e3o do processo de \ncoleta de leite, atuando principalmente no registro das informa\u00e7\u00f5es obtidas na capta\u00e7\u00e3o e coleta do leite.\n \n\n\n  O Aplicativo Coletor Milk' Rota foi escrito com o principal objetivo de fornecer aos \nAgentes de Coleta\n (Motoristas), condi\u00e7\u00f5es de manter as informa\u00e7\u00f5es geradas nas visitas\n\n  as fazendas produtoras de forma organizada, acess\u00edvel e correta.\n\n\n\n\n  As funcionalidades implementadas pelo aplicativo coletor foram idealizadas com base na rotina do agente de coleta e apresentadas em uma interface simples e funcional, \n  evitando opera\u00e7\u00f5es complicadas que pudessem afetar a rotina di\u00e1ria do\n   Agente de Coleta.\n\n  \n\n\n \n\n\nRegistro das opera\u00e7\u00f5es de coleta pelo aplicativo\n#\n\n\n\n  Este manual tem por objetivo apresentar as pricipais funcionalidades do aplicativo coletor, esclarecer d\u00favidas\n  e prover uma forma r\u00e1pida de consulta  aos procedimentos corretos de anota\u00e7\u00e3o dos registros\n  das visitas nas fazendas produtoras.   \n\n\n\n\nFuncionamento\n#\n\n\n\n  O App Milk' Rota foi desenvolvido para possibilitar que os registros das visitas sejam feitos independente da \ncobertura de sinal\n\n  de rede ou \ninternet\n, sendo assim, ap\u00f3s realizada a carga incial dos dados e abertura de viagem, \nN\u00c3O\n h\u00e1 necessidade de acessso a rede ou internet para que o \n  App funcione. Os registros das coletas podem ser anotados, mesmo sem esta cobertura.\n  Quando o agente de coleta (Motorista) se desloca pelas fazendas produtoras e o sistema encontra uma cobertura de rede, o App Coletor\n  envia as informa\u00e7\u00f5es para o latic\u00ednio ou cooperativa, mas \u00e9 na chegada do veiculo \u00e1 plataforma de descarga, quando o agente de coleta\n  Finaliza a viagem e \"Sincroniza\" os dados, que as informa\u00e7\u00f2es s\u00e3o efetivamente enviadas e armazendas.\n\n\n\nEquipamentos\n#\n\n\nPara que os agentes de coleta consigam realizar todos registros das opera\u00e7\u00f5es, o sistema utiliza alguns equipamentos::\n  \n \n  1. Celular\n\n  2. Impressora Port\u00e1til\n\n  3. Etiquetas NFC\n\n  \n\n  Recomendamos que o celular seja carregado \ndiariamente\n,mas na maioria dos casos existe um carregador ve\u00edcular, tando para o celular como para a\n  impressora, que devem ser utilizados no caso de falta de carga nas baterias.\n\n  A impressora no modelo MPT-II ou Leopardo, conseguem operar por at\u00e9 3 dias com uma \u00fanica carga. Recomenda-se que\n  os equipamento recebam carga completa, antes do in\u00edcio da viagem.\n\n  \n\n   As etiquetas NFC - N\u00e3o utilizam baterias e s\u00e3o ativadas no momento em que o celular \u00e9 aproximado das mesmas para fazer a leitura.", 
+            "title": "Manual"
+        }, 
+        {
+            "location": "/#milks-rota-sclrota-manual-de-operacao", 
+            "text": "", 
+            "title": "Milk's Rota (SclRota) - Manual de Opera\u00e7\u00e3o."
+        }, 
+        {
+            "location": "/#aplicativo-coletor", 
+            "text": "A plataforma Milk's Rota \u00e9 composta por uma s\u00e9rie de servi\u00e7os idealizados e moldados para atender as necessidades de automa\u00e7\u00e3o do processo de \ncoleta de leite, atuando principalmente no registro das informa\u00e7\u00f5es obtidas na capta\u00e7\u00e3o e coleta do leite.   \n  O Aplicativo Coletor Milk' Rota foi escrito com o principal objetivo de fornecer aos  Agentes de Coleta  (Motoristas), condi\u00e7\u00f5es de manter as informa\u00e7\u00f5es geradas nas visitas \n  as fazendas produtoras de forma organizada, acess\u00edvel e correta.  \n  As funcionalidades implementadas pelo aplicativo coletor foram idealizadas com base na rotina do agente de coleta e apresentadas em uma interface simples e funcional, \n  evitando opera\u00e7\u00f5es complicadas que pudessem afetar a rotina di\u00e1ria do\n   Agente de Coleta.", 
+            "title": "Aplicativo Coletor"
+        }, 
+        {
+            "location": "/#registro-das-operacoes-de-coleta-pelo-aplicativo", 
+            "text": "Este manual tem por objetivo apresentar as pricipais funcionalidades do aplicativo coletor, esclarecer d\u00favidas\n  e prover uma forma r\u00e1pida de consulta  aos procedimentos corretos de anota\u00e7\u00e3o dos registros\n  das visitas nas fazendas produtoras.", 
+            "title": "Registro das opera\u00e7\u00f5es de coleta pelo aplicativo"
+        }, 
+        {
+            "location": "/#funcionamento", 
+            "text": "O App Milk' Rota foi desenvolvido para possibilitar que os registros das visitas sejam feitos independente da  cobertura de sinal \n  de rede ou  internet , sendo assim, ap\u00f3s realizada a carga incial dos dados e abertura de viagem,  N\u00c3O  h\u00e1 necessidade de acessso a rede ou internet para que o \n  App funcione. Os registros das coletas podem ser anotados, mesmo sem esta cobertura.\n  Quando o agente de coleta (Motorista) se desloca pelas fazendas produtoras e o sistema encontra uma cobertura de rede, o App Coletor\n  envia as informa\u00e7\u00f5es para o latic\u00ednio ou cooperativa, mas \u00e9 na chegada do veiculo \u00e1 plataforma de descarga, quando o agente de coleta\n  Finaliza a viagem e \"Sincroniza\" os dados, que as informa\u00e7\u00f2es s\u00e3o efetivamente enviadas e armazendas.", 
+            "title": "Funcionamento"
+        }, 
+        {
+            "location": "/#equipamentos", 
+            "text": "Para que os agentes de coleta consigam realizar todos registros das opera\u00e7\u00f5es, o sistema utiliza alguns equipamentos::\n    \n  1. Celular \n  2. Impressora Port\u00e1til \n  3. Etiquetas NFC \n   \n  Recomendamos que o celular seja carregado  diariamente ,mas na maioria dos casos existe um carregador ve\u00edcular, tando para o celular como para a\n  impressora, que devem ser utilizados no caso de falta de carga nas baterias. \n  A impressora no modelo MPT-II ou Leopardo, conseguem operar por at\u00e9 3 dias com uma \u00fanica carga. Recomenda-se que\n  os equipamento recebam carga completa, antes do in\u00edcio da viagem. \n   \n   As etiquetas NFC - N\u00e3o utilizam baterias e s\u00e3o ativadas no momento em que o celular \u00e9 aproximado das mesmas para fazer a leitura.", 
+            "title": "Equipamentos"
+        }, 
+        {
+            "location": "/viagem/", 
+            "text": "Abertura de viagens \n  \n \n#\n\n\nO registro do in\u00edcio da viagem deve ser feito no exato momento em que\no deslocamento \u00e9 iniciado. N\u00e3o h\u00e1 necessidade de cobertura de rede ou\ninternet para que este procedimento funcione. As telas abaixo exemplificam\no comportamento do Aplicativo.\n\n\n\n\n1. Identifica\u00e7\u00e3o do Agente de Coleta (Motorista)\n#\n\n\nO Agente de Coleta deve aproximar,  a (Tag) que o identifica,  da parte de traz do\ncelular ou clicar no \u00edcone de busca \n para exibir uma lista com todos os nomes\ndos motoristas cadastrados e clicar em seu nome.\n\n\n\n\nAp\u00f3s a identifica\u00e7\u00e3o do motorista, o aplicativo exibir\u00e1 o nome selecionado e solicita que seja feita a identifica\u00e7\u00e3o do ve\u00edculo.  \n\n\n\n\n2. Identifica\u00e7\u00e3o do Ve\u00edculo\n#\n\n\no Agente de coleta (Motorista) deve aproximar, a (Tag) que identifica o ve\u00edculo, da parte de traz do celular ou \nclicar no \u00edcone de busca \n para exibir uma lista com todos as placas \ndos ve\u00edculos cadastrados e clicar em uma para escolhe-la.\n\n\n\n\nfinalizada a identifica\u00e7\u00e3o do ve\u00edculo, o pr\u00f3ximo passo ser\u00e1 registrar a quilomentragem inicial:\n\n\n\n\n3. KM - Sa\u00edda\n#\n\n\nNesta tela, o motorista deve informar a quilomentragem que est\u00e1 registrada no painel do ve\u00edculo e , se for solicitado, fazer uma foto\npara comprovar os n\u00fameros do od\u00f4metro. Fazer a foto \u00e9 opcional, a menos que a empresa ajuste o aplicativo para exigir, e neste caso, o processo s\u00f3\nir\u00e1 continuar se a foto for feita.\n\n\n#\n\n\n4. Foto do Veloc\u00edmetro\n#\n\n\nAo clicar no bot\u00e3o  \n o aplicativo ir\u00e1 acionar a c\u00e2mera do celular para que seja\nfeita a foto do painel e logo ap\u00f3s registrada a foto, deve-se clicar no bot\u00e3o \n[Avan\u00e7ar]\n.\n\n\n\n\n\n5. Escolhendo a Rota\n#\n\n\n\n\n\n\nRotas sao conjuntos de linhas, servem apenas para agrupar as linhas que s\u00e3o feitas pela mesmo transportador\nou que est\u00e3o na mesma unidade do latic\u00ednio. Escolher a rota que representa a regi\u00e3o ou plataforma onde o motorista vai \ndescarregar o leite quando finalizar a viagem. \n\n\n\n\n\n\n\n\n\n\n6. Escolhendo a Linha\n#\n\n\n\n\nAs linhas representam o conjunto de fazendas que devem ser visitadas em uma viagem.\nToda a rela\u00e7\u00e3o de fazendas e produtores est\u00e1 ligada a linha escolhida. \u00c9 importante\nescolher a linha correta do dia de trabalho, pois se por algum motivo o agente de coleta (Motorista)\nn\u00e3o chegar at\u00e9 o tanque resfriador, ele ter\u00e1 condi\u00e7\u00f5es de escolher a fazenda em\numa lista e assim registrar a coleta, cancelar, fazer uma ocorr\u00eanca, etc.\n\n\n\n\n#\n\n\n7. Iniciando a Viagem\n#\n\n\n\n\nQuando todos os passos inciais forem conclu\u00eddos, o sistema exibir\u00e1 a tela de abertua de viagem,\nonde haver\u00e1 um resumo de todas as escolhas que o motorista fez para inciar a viagem. Se houver\nnecessidade, ele poder\u00e1 corrigir alguma informa\u00e7\u00e3o de abertura clicando no bot\u00e3o \n[Redefinir Itiner\u00e1rio]\n,\ne acertar as escolhas. \n\n\n\n\n\n\n\n\nAp\u00f3s a confer\u00eancia do itiner\u00e1rio, clicar no bot\u00e3o \n[Iniciar Viagem]\n. O Aplicativo\npassr\u00e1 ent\u00e3o para a tela de registro de coletas, que ser\u00e1 feito a partir da 1a. fazenda, at\u00e9\nchegar no local, o motorista pder\u00e1 deixar o celular no mode de descanso para economizar bateria.", 
+            "title": "Abrindo Viagem"
+        }, 
+        {
+            "location": "/viagem/#abertura-de-viagens", 
+            "text": "O registro do in\u00edcio da viagem deve ser feito no exato momento em que\no deslocamento \u00e9 iniciado. N\u00e3o h\u00e1 necessidade de cobertura de rede ou\ninternet para que este procedimento funcione. As telas abaixo exemplificam\no comportamento do Aplicativo.", 
+            "title": "Abertura de viagens    "
+        }, 
+        {
+            "location": "/viagem/#1-identificacao-do-agente-de-coleta-motorista", 
+            "text": "O Agente de Coleta deve aproximar,  a (Tag) que o identifica,  da parte de traz do\ncelular ou clicar no \u00edcone de busca   para exibir uma lista com todos os nomes\ndos motoristas cadastrados e clicar em seu nome.   Ap\u00f3s a identifica\u00e7\u00e3o do motorista, o aplicativo exibir\u00e1 o nome selecionado e solicita que seja feita a identifica\u00e7\u00e3o do ve\u00edculo.", 
+            "title": "1. Identifica\u00e7\u00e3o do Agente de Coleta (Motorista)"
+        }, 
+        {
+            "location": "/viagem/#2-identificacao-do-veiculo", 
+            "text": "o Agente de coleta (Motorista) deve aproximar, a (Tag) que identifica o ve\u00edculo, da parte de traz do celular ou \nclicar no \u00edcone de busca   para exibir uma lista com todos as placas \ndos ve\u00edculos cadastrados e clicar em uma para escolhe-la.   finalizada a identifica\u00e7\u00e3o do ve\u00edculo, o pr\u00f3ximo passo ser\u00e1 registrar a quilomentragem inicial:", 
+            "title": "2. Identifica\u00e7\u00e3o do Ve\u00edculo"
+        }, 
+        {
+            "location": "/viagem/#3-km-saida", 
+            "text": "Nesta tela, o motorista deve informar a quilomentragem que est\u00e1 registrada no painel do ve\u00edculo e , se for solicitado, fazer uma foto\npara comprovar os n\u00fameros do od\u00f4metro. Fazer a foto \u00e9 opcional, a menos que a empresa ajuste o aplicativo para exigir, e neste caso, o processo s\u00f3\nir\u00e1 continuar se a foto for feita.", 
+            "title": "3. KM - Sa\u00edda"
+        }, 
+        {
+            "location": "/viagem/#4-foto-do-velocimetro", 
+            "text": "Ao clicar no bot\u00e3o    o aplicativo ir\u00e1 acionar a c\u00e2mera do celular para que seja\nfeita a foto do painel e logo ap\u00f3s registrada a foto, deve-se clicar no bot\u00e3o  [Avan\u00e7ar] .", 
+            "title": "4. Foto do Veloc\u00edmetro"
+        }, 
+        {
+            "location": "/viagem/#5-escolhendo-a-rota", 
+            "text": "Rotas sao conjuntos de linhas, servem apenas para agrupar as linhas que s\u00e3o feitas pela mesmo transportador\nou que est\u00e3o na mesma unidade do latic\u00ednio. Escolher a rota que representa a regi\u00e3o ou plataforma onde o motorista vai \ndescarregar o leite quando finalizar a viagem.", 
+            "title": "5. Escolhendo a Rota"
+        }, 
+        {
+            "location": "/viagem/#6-escolhendo-a-linha", 
+            "text": "As linhas representam o conjunto de fazendas que devem ser visitadas em uma viagem.\nToda a rela\u00e7\u00e3o de fazendas e produtores est\u00e1 ligada a linha escolhida. \u00c9 importante\nescolher a linha correta do dia de trabalho, pois se por algum motivo o agente de coleta (Motorista)\nn\u00e3o chegar at\u00e9 o tanque resfriador, ele ter\u00e1 condi\u00e7\u00f5es de escolher a fazenda em\numa lista e assim registrar a coleta, cancelar, fazer uma ocorr\u00eanca, etc.", 
+            "title": "6. Escolhendo a Linha"
+        }, 
+        {
+            "location": "/viagem/#7-iniciando-a-viagem", 
+            "text": "Quando todos os passos inciais forem conclu\u00eddos, o sistema exibir\u00e1 a tela de abertua de viagem,\nonde haver\u00e1 um resumo de todas as escolhas que o motorista fez para inciar a viagem. Se houver\nnecessidade, ele poder\u00e1 corrigir alguma informa\u00e7\u00e3o de abertura clicando no bot\u00e3o  [Redefinir Itiner\u00e1rio] ,\ne acertar as escolhas.      Ap\u00f3s a confer\u00eancia do itiner\u00e1rio, clicar no bot\u00e3o  [Iniciar Viagem] . O Aplicativo\npassr\u00e1 ent\u00e3o para a tela de registro de coletas, que ser\u00e1 feito a partir da 1a. fazenda, at\u00e9\nchegar no local, o motorista pder\u00e1 deixar o celular no mode de descanso para economizar bateria.", 
+            "title": "7. Iniciando a Viagem"
+        }, 
+        {
+            "location": "/coleta/", 
+            "text": "Registrando uma coleta \n  \n \n#\n\n\n\n\nProcedimentos para realizar o registro das coletas no aplicativo ::\n\n\n\n\n\n\nI -  Identificando o produtor, fazenda e ponto de coleta\n#\n\n\n\n\nO Aplicativo pode ser configurado para identificar de diversas formas o ponto de coleta,\nmas o meio mais comum e atrav\u00e9s da Tag (NFC). Existe tamb\u00e9 a possibilidade de identificar\npor meio de c\u00f3digo de barras e por geo-refer\u00eancia (GPS). \nPara Identificar o produtor e ponto de coleta, aproxime a parte de traz do celular da etiqueta (NFC) que geralmente\nfica afixada na tampa do tanque resfriador, ou fa\u00e7a a leitura o c\u00f3digo de barras.\n\n\nSe por algum motivo a etiqueta n\u00e3o puder ser alcan\u00e7ada, o ponto de coleta poder ser escolhido\nde uma lista (Itiner\u00e1rio), clicando no \u00edcone  \n . \n\n\n\n\n\n\n\n\nII -  Conferindo os dados do produtor\n#\n\n\n\n\n\n\nIII -  Anotando a temperatura do tanque\n#\n\n\n\n\n\n\nIV -  Anotando a medida da r\u00e9gua\n#\n\n\n\n\n\n\nV - Anotando o volume de leite\n#\n\n\n\n\n\n\nVI - Alizarol - Resultado\n#", 
+            "title": "Registrar Coleta"
+        }, 
+        {
+            "location": "/coleta/#registrando-uma-coleta", 
+            "text": "Procedimentos para realizar o registro das coletas no aplicativo ::", 
+            "title": "Registrando uma coleta    "
+        }, 
+        {
+            "location": "/coleta/#i-identificando-o-produtor-fazenda-e-ponto-de-coleta", 
+            "text": "O Aplicativo pode ser configurado para identificar de diversas formas o ponto de coleta,\nmas o meio mais comum e atrav\u00e9s da Tag (NFC). Existe tamb\u00e9 a possibilidade de identificar\npor meio de c\u00f3digo de barras e por geo-refer\u00eancia (GPS). \nPara Identificar o produtor e ponto de coleta, aproxime a parte de traz do celular da etiqueta (NFC) que geralmente\nfica afixada na tampa do tanque resfriador, ou fa\u00e7a a leitura o c\u00f3digo de barras.  Se por algum motivo a etiqueta n\u00e3o puder ser alcan\u00e7ada, o ponto de coleta poder ser escolhido\nde uma lista (Itiner\u00e1rio), clicando no \u00edcone    .", 
+            "title": "I -  Identificando o produtor, fazenda e ponto de coleta"
+        }, 
+        {
+            "location": "/coleta/#ii-conferindo-os-dados-do-produtor", 
+            "text": "", 
+            "title": "II -  Conferindo os dados do produtor"
+        }, 
+        {
+            "location": "/coleta/#iii-anotando-a-temperatura-do-tanque", 
+            "text": "", 
+            "title": "III -  Anotando a temperatura do tanque"
+        }, 
+        {
+            "location": "/coleta/#iv-anotando-a-medida-da-regua", 
+            "text": "", 
+            "title": "IV -  Anotando a medida da r\u00e9gua"
+        }, 
+        {
+            "location": "/coleta/#v-anotando-o-volume-de-leite", 
+            "text": "", 
+            "title": "V - Anotando o volume de leite"
+        }, 
+        {
+            "location": "/coleta/#vi-alizarol-resultado", 
+            "text": "", 
+            "title": "VI - Alizarol - Resultado"
+        }
+    ]
+}
