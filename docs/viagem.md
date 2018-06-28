@@ -39,11 +39,13 @@ para comprovar os números do odômetro. Fazer a foto é opcional, a menos que a
 irá continuar se a foto for feita.
 
 ![Screenshot](images/screens/km-inicial.png)
+
 ----
 4. Foto do Velocímetro 
 ----
 Ao clicar no botão  <i class="fa fa-camera"></i> o aplicativo irá acionar a câmera do celular para que seja
-feita a foto do painel e logo após registrada a foto, deve-se clicar no botão <b>[Avançar]</b>.
+feita a foto do painel e logo após registrada a foto, deve-se clicar no botão <b>[Avançar]</b>
+
 ![Screenshot](images/screens/foto-hodometro.png)
 
 ----
