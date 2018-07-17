@@ -39,7 +39,7 @@ pages:
   - Registrando Coleta: 'coleta.md'
   - Ocorrências e Fotos: 'ocorrencias.md'
   - Corrigir Coleta: 'editarColeta.md'
-  - Cancelar Coleta: 'cancelarVisita.md'
+  - Cancelar Visita: 'cancelarVisita.md'
   - Tanque comunitário: 'tanqueColetivo.md'
   - leite já coletado (Monitorar Tanques): 'monitorarTanques.md'
   - Fechar Viagem: 'fecharViagem.md'
